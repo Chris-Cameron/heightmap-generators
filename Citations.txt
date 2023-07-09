@@ -1,0 +1,3 @@
+https://pypi.org/project/perlin-noise/
+https://stackoverflow.com/questions/9295026/matplotlib-plots-removing-axis-legends-and-white-spaces
+https://stackoverflow.com/questions/24185083/change-resolution-of-imshow-in-ipython
